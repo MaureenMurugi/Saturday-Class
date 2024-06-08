@@ -1,0 +1,3 @@
+according to the project this is where we add notes about the repository
+my branch is working on text.
+we have 3 more branches working on different sites.
